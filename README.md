@@ -1,6 +1,6 @@
 ### Hi there 🦄
 
-👨🏻‍💻 I'm Federico (or Robin), a (mostly) frontend web developer from Genoa, Italy.  
+👨🏻‍💻 I'm Federico (aka Robin), a (mostly) frontend web developer from Genoa, Italy.  
 🏳️‍🌈 My pronouns are he/him.
 
 ### Coding
