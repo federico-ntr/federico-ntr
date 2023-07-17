@@ -17,6 +17,6 @@ Currently working with React and [MUI](https://mui.com/) but I also have experie
 
 ### Social
 
-[![telegram link](https://img.shields.io/badge/t.me-beanowe-0088CC?style=flat&logo=telegram)](https://t.me/beanowe)  
-[![last.fm link](https://img.shields.io/badge/last.fm-holotaco-d51007?style=flat&logo=last.fm)](https://www.last.fm/user/holotaco)  
-[![steam profile link](https://img.shields.io/badge/steam-lerobe-66c0f4?style=flat&logo=steam)](https://steamcommunity.com/profiles/76561198063968690/)
+[![telegram link](https://img.shields.io/badge/t.me-beanowe-26A5E4?style=flat&logo=telegram&logoColor=fff)](https://t.me/beanowe)  
+[![last.fm link](https://img.shields.io/badge/last.fm-holotaco-D51007?style=flat&logo=last.fm)](https://www.last.fm/user/holotaco)  
+[![steam profile link](https://img.shields.io/badge/steam-lerobe-000000?style=flat&logo=steam)](https://steamcommunity.com/profiles/76561198063968690/)
